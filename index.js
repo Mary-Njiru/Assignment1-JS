@@ -6,7 +6,7 @@ console.log(a[8], a[9], a[10], a[11]);
 const food = "The quick fox jumped over the lazy dog";
 let b = "eat";
 
-const c = `The ${b} quick brown fox jumps over the lazy dog`;
+const c = `The ${b} quick fox jumped over the lazy dog`;
 console.log({c});
 
 //Question 3
